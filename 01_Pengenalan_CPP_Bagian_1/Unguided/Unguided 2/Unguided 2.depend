@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727796946 source:c:\unguided 2\main.cpp
+	<iostream>
+	<string>
+
